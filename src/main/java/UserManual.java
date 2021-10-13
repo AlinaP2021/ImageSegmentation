@@ -23,7 +23,7 @@ public class UserManual extends JInternalFrame {
         textArea.setFont(new Font("Times New Roman", Font.PLAIN, 14));
         textArea.setText("""
                    «ImageSegmentation» - это программное средство для сегментации\s
-                изображения двумя методами:
+                изображений двумя методами:
                    1. методом модифицированной фрактальной сигнатуры;
                    2. методом мультифрактального анализа.
 
